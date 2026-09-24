@@ -16,7 +16,3 @@ tiktoken==0.8.0
 pandas==2.2.3
 pytest==8.3.3
 
-# Required on most cloud hosts (Streamlit Community Cloud, Render, etc.):
-# their default system sqlite3 is older than what chromadb requires.
-# This swaps in a modern, self-contained sqlite3 build. See app.py top.
-pysqlite3-binary==0.5.3; sys_platform == "linux"
