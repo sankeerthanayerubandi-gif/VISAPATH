@@ -1,0 +1,11 @@
+PASSPORT
+Type: P
+Country Code: IND
+Passport No.: N1234567
+Surname: KUMAR
+Given Names: RAHUL
+Nationality: INDIAN
+Date of Birth: 10 JAN 2002
+Place of Birth: DELHI, INDIA
+Date of Issue: 15 MAR 2019
+Date of Expiry: 14 MAR 2029
